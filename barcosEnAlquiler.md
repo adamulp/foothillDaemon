@@ -37,6 +37,4 @@ classDiagram
     BarcoMotorizado <|-- Yate
     Barco <|-- Velero
 
-
-
-```
+//Hi Adam,good work..
