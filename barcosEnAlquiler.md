@@ -37,5 +37,4 @@ classDiagram
     BarcoMotorizado <|-- Yate
     Barco <|-- Velero
 
-//Hi Adam,good work..
-}
+Note left: Hi Adam!. Good work.
