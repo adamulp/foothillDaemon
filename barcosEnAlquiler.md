@@ -13,9 +13,10 @@ classDiagram
         - String matricula
         - int eslora
         - LocalDate fabricación
+        - List~Alquiler~ alquileres
     }
-    Alquileres o-- Alquiler
-    Alquiler <-- Barco
+
+    Alquiler <--o Barco
 
 
     class Yate{
@@ -38,3 +39,6 @@ classDiagram
     Barco <|-- Velero
 
 Note left: Hi Adam!. Good work.
+
+Note left: Hi Agus!. Thanks for helping me practice with git!
+```
